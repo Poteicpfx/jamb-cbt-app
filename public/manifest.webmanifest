@@ -1,0 +1,18 @@
+{
+  "name": "UTME Prep — JAMB CBT Simulator",
+  "short_name": "UTME Prep",
+  "description": "Offline-capable JAMB CBT preparation, past questions, and timed mock exams.",
+  "theme_color": "#065f46",
+  "background_color": "#f8fafc",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
