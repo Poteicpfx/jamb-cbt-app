@@ -56,6 +56,7 @@ export function CsvImportPanel({
   const [touchedSubjects, setTouchedSubjects] = useState<string[]>([]);
   const [fileName, setFileName] = useState('');
   const [errorMsg, setErrorMsg] = useState<string | null>(null);
+  const [progressMsg, setProgressMsg] = useState<string | null>(null);
   const [importing, setImporting] = useState(false);
 
   function downloadTemplate() {
@@ -73,28 +74,22 @@ export function CsvImportPanel({
     if (!file) return;
 
     setErrorMsg(null);
+    setProgressMsg(null);
     setFileName(file.name);
 
     try {
       const text = await file.text();
-      const lines = text
-        .split(/\r?\n/)
-        .map((l) => l.trim())
-        .filter(Boolean);
-
-      if (lines.length < 2) {
-        throw new Error('CSV must include a header row and at least 1 question row.');
-      }
+      const lines = text.split(/\r?\n/).map((l) => l.trim()).filter(Boolean);
+      if (lines.length < 2) throw new Error('CSV must include a header row and at least 1 question.');
 
       const codeMap = new Map(subjects.map((s) => [s.code.toUpperCase(), s.id]));
       const parsed: ParsedRow[] = [];
       const subjectSet = new Set<string>();
+      const seenInFile = new Set<string>();
 
       for (let i = 1; i < lines.length; i++) {
         const cols = parseCsvLine(lines[i]);
-        if (cols.length < 9) {
-          throw new Error(`Row ${i + 1}: Expected at least 9 columns.`);
-        }
+        if (cols.length < 9) throw new Error(`Row ${i + 1}: Expected at least 9 columns.`);
 
         const [code, yearStr, qTypeRaw, stem, optA, optB, optC, optD, ansRaw, explanation = ''] = cols;
         const subId = codeMap.get(code.toUpperCase());
@@ -105,13 +100,15 @@ export function CsvImportPanel({
           throw new Error(`Row ${i + 1}: correct_option must be A, B, C, or D.`);
         }
 
-        const qType: QuestionType = qTypeRaw.toLowerCase() === 'practice' ? 'practice' : 'past';
-        subjectSet.add(subId);
+        const dedupKey = `${subId}::${stem.toLowerCase()}`;
+        if (seenInFile.has(dedupKey)) continue;
+        seenInFile.add(dedupKey);
 
+        subjectSet.add(subId);
         parsed.push({
           subject_id: subId,
           exam_year: yearStr ? Number(yearStr) : null,
-          question_type: qType,
+          question_type: qTypeRaw.toLowerCase() === 'practice' ? 'practice' : 'past',
           stem,
           options: [
             { key: 'A', text: optA },
@@ -139,8 +136,31 @@ export function CsvImportPanel({
     setErrorMsg(null);
 
     try {
-      const { error } = await supabase.from('questions').insert(rows);
-      if (error) throw error;
+      // Check existing stems per touched subject to avoid duplicates
+      const existingStems = new Set<string>();
+      for (const sId of touchedSubjects) {
+        const { data } = await supabase
+          .from('questions')
+          .select('stem')
+          .eq('subject_id', sId)
+          .range(0, 1999);
+        for (const item of data ?? []) {
+          existingStems.add(`${sId}::${String(item.stem).trim().toLowerCase()}`);
+        }
+      }
+
+      const freshRows = rows.filter(
+        (r) => !existingStems.has(`${r.subject_id}::${r.stem.trim().toLowerCase()}`)
+      );
+
+      // Upload in chunks of 50
+      const chunkSize = 50;
+      for (let i = 0; i < freshRows.length; i += chunkSize) {
+        const chunk = freshRows.slice(i, i + chunkSize);
+        setProgressMsg(`Uploading ${Math.min(i + chunkSize, freshRows.length)} / ${freshRows.length}...`);
+        const { error } = await supabase.from('questions').insert(chunk);
+        if (error) throw error;
+      }
 
       for (const sId of touchedSubjects) {
         const { count } = await supabase
@@ -163,6 +183,8 @@ export function CsvImportPanel({
         });
       }
 
+      const skippedDupes = rows.length - freshRows.length;
+      setProgressMsg(`Uploaded ${freshRows.length} new question(s) (${skippedDupes} duplicate(s) skipped).`);
       setRows([]);
       setFileName('');
       await onImported();
@@ -179,7 +201,7 @@ export function CsvImportPanel({
         <div>
           <h2 className="text-sm font-bold text-slate-900">Import from CSV / Excel</h2>
           <p className="text-xs text-slate-500">
-            Save any Excel/Google Sheet as <strong>.csv</strong> and upload hundreds of questions at once.
+            Supports large files (500+ rows) with automatic duplicate detection.
           </p>
         </div>
         <button
@@ -205,11 +227,14 @@ export function CsvImportPanel({
       {errorMsg && (
         <div className="rounded-xl bg-red-50 p-3 text-xs font-medium text-red-700">{errorMsg}</div>
       )}
+      {progressMsg && (
+        <div className="rounded-xl bg-emerald-50 p-3 text-xs font-semibold text-emerald-800">{progressMsg}</div>
+      )}
 
       {rows.length > 0 && (
         <div className="flex flex-wrap items-center justify-between gap-3 rounded-xl bg-emerald-50 p-3">
           <span className="text-xs font-bold text-emerald-900">
-            Ready to import {rows.length} question(s) across {touchedSubjects.length} subject(s)!
+            Ready: {rows.length} unique row(s) across {touchedSubjects.length} subject(s)
           </span>
           <button
             type="button"

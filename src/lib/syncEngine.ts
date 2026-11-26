@@ -3,33 +3,44 @@ import { localDb } from './dexie';
 import type { Passage, Question, Subject, Topic } from '../types/exam.types';
 
 export async function downloadSubjectPack(subject: Subject): Promise<number> {
-  // 1. Fetch manifest version
   const { data: manifest } = await supabase
     .from('offline_pack_manifests')
     .select('pack_version')
     .eq('subject_id', subject.id)
     .maybeSingle();
 
-  // 2. Fetch topics, passages, and published questions for this subject
-  const [topicsRes, passagesRes, questionsRes] = await Promise.all([
+  const [topicsRes, passagesRes] = await Promise.all([
     supabase.from('topics').select('id, subject_id, name').eq('subject_id', subject.id),
     supabase.from('passages').select('id, subject_id, title, content, exam_year').eq('subject_id', subject.id),
-    supabase
-      .from('questions')
-      .select('*')
-      .eq('subject_id', subject.id)
-      .eq('is_published', true),
   ]);
 
   if (topicsRes.error) throw topicsRes.error;
   if (passagesRes.error) throw passagesRes.error;
-  if (questionsRes.error) throw questionsRes.error;
+
+  // Paginate questions in chunks of 1000 so large subjects never truncate
+  const questions: Question[] = [];
+  const pageSize = 1000;
+  let from = 0;
+
+  while (true) {
+    const { data, error } = await supabase
+      .from('questions')
+      .select('*')
+      .eq('subject_id', subject.id)
+      .eq('is_published', true)
+      .order('created_at', { ascending: true })
+      .range(from, from + pageSize - 1);
+
+    if (error) throw error;
+    const batch = (data ?? []) as Question[];
+    questions.push(...batch);
+    if (batch.length < pageSize) break;
+    from += pageSize;
+  }
 
   const topics = (topicsRes.data ?? []) as Topic[];
   const passages = (passagesRes.data ?? []) as Passage[];
-  const questions = (questionsRes.data ?? []) as Question[];
 
-  // 3. Save everything atomically into IndexedDB
   await localDb.transaction(
     'rw',
     localDb.subjects,
