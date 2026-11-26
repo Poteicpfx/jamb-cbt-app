@@ -5,6 +5,7 @@ import { useAuth } from '../auth/AuthContext';
 import { localDb } from '../../lib/dexie';
 import { supabase } from '../../lib/supabase';
 import { downloadSubjectPack } from '../../lib/syncEngine';
+import { fetchLiveAlocQuestions } from '../../lib/alocLive';
 import type { ActiveExamSession, ExamMode, QuestionType, Subject } from '../../types/exam.types';
 
 function shuffle<T>(items: T[]): T[] {
@@ -23,6 +24,7 @@ export function ExamSetupPage() {
   const initialMode = searchParams.get('mode') === 'practice' ? 'practice' : 'mock';
 
   const [mode, setMode] = useState<ExamMode>(initialMode);
+  const [source, setSource] = useState<'offline' | 'aloc'>('offline');
   const [subjects, setSubjects] = useState<Subject[]>([]);
   const [localCounts, setLocalCounts] = useState<Record<string, number>>({});
   const [practiceSubjectId, setPracticeSubjectId] = useState('');
@@ -95,22 +97,39 @@ export function ExamSetupPage() {
       let pickedQuestionIds: string[] = [];
       let durationMinutes = 120;
 
-      if (mode === 'mock') {
-        chosenSubjectIds = subjects.map((s) => s.id);
-        for (const sub of subjects) {
-          const qs = await localDb.questions.where('subject_id').equals(sub.id).toArray();
-          const selected = shuffle(qs).slice(0, sub.default_exam_count);
-          pickedQuestionIds.push(...selected.map((q) => q.id));
+      const targetSubjects =
+        mode === 'mock'
+          ? subjects
+          : subjects.filter((s) => s.id === practiceSubjectId);
+
+      chosenSubjectIds = targetSubjects.map((s) => s.id);
+      durationMinutes = mode === 'mock' ? 120 : practiceMinutes;
+
+      if (source === 'aloc') {
+        if (!navigator.onLine) {
+          setErrorMsg('Live ALOC mode requires internet. Switch to Offline Bank to practice offline.');
+          setStarting(false);
+          return;
         }
-        durationMinutes = 120;
+        const liveQs = await fetchLiveAlocQuestions(targetSubjects, 15);
+        for (const sub of targetSubjects) {
+          let subQs = liveQs.filter((q) => q.subject_id === sub.id);
+          if (subQs.length === 0) {
+            subQs = await localDb.questions.where('subject_id').equals(sub.id).toArray();
+          }
+          pickedQuestionIds.push(...shuffle(subQs).slice(0, sub.default_exam_count).map((q) => q.id));
+        }
+      } else if (mode === 'mock') {
+        for (const sub of targetSubjects) {
+          const qs = await localDb.questions.where('subject_id').equals(sub.id).toArray();
+          pickedQuestionIds.push(...shuffle(qs).slice(0, sub.default_exam_count).map((q) => q.id));
+        }
       } else {
-        chosenSubjectIds = [practiceSubjectId];
         let qs = await localDb.questions.where('subject_id').equals(practiceSubjectId).toArray();
         if (practiceType !== 'all') {
           qs = qs.filter((q) => q.question_type === practiceType);
         }
         pickedQuestionIds = shuffle(qs).slice(0, 40).map((q) => q.id);
-        durationMinutes = practiceMinutes;
       }
 
       if (pickedQuestionIds.length === 0) {
@@ -136,6 +155,8 @@ export function ExamSetupPage() {
 
       await localDb.activeSessions.put(session);
       navigate('/exam');
+    } catch (err) {
+      setErrorMsg(err instanceof Error ? err.message : 'Failed to start exam.');
     } finally {
       setStarting(false);
     }
@@ -221,6 +242,26 @@ export function ExamSetupPage() {
               >
                 <BookOpenCheck className="h-4 w-4" /> Practice / Past Qs
               </button>
+            </div>
+
+            <div>
+              <p className="mb-1.5 text-xs font-semibold text-slate-700">Question Source</p>
+              <div className="grid grid-cols-2 gap-2 rounded-xl bg-slate-100 p-1 text-xs font-semibold">
+                <button
+                  type="button"
+                  onClick={() => setSource('offline')}
+                  className={"rounded-lg py-2 " + (source === 'offline' ? 'bg-white text-emerald-900 shadow-sm' : 'text-slate-600')}
+                >
+                  Offline Bank
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setSource('aloc')}
+                  className={"rounded-lg py-2 " + (source === 'aloc' ? 'bg-white text-emerald-900 shadow-sm' : 'text-slate-600')}
+                >
+                  Live ALOC (13,800+ Qs)
+                </button>
+              </div>
             </div>
 
             {mode === 'mock' ? (

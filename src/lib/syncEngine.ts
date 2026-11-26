@@ -50,7 +50,7 @@ export async function downloadSubjectPack(subject: Subject): Promise<number> {
     async () => {
       await localDb.topics.where('subject_id').equals(subject.id).delete();
       await localDb.passages.where('subject_id').equals(subject.id).delete();
-      await localDb.questions.where('subject_id').equals(subject.id).delete();
+      await localDb.questions.where('subject_id').equals(subject.id).filter((q) => !q.id.startsWith('aloc-')).delete();
 
       if (topics.length) await localDb.topics.bulkPut(topics);
       if (passages.length) await localDb.passages.bulkPut(passages);
@@ -100,9 +100,10 @@ export async function syncPendingAttempts(): Promise<number> {
 
     if (attemptError || !insertedAttempt) continue;
 
-    if (attempt.answers.length > 0) {
+    const dbAnswers = attempt.answers.filter((a) => !a.question_id.startsWith('aloc-'));
+    if (dbAnswers.length > 0) {
       await supabase.from('attempt_answers').insert(
-        attempt.answers.map((ans) => ({
+        dbAnswers.map((ans) => ({
           attempt_id: insertedAttempt.id,
           question_id: ans.question_id,
           subject_id: ans.subject_id,
