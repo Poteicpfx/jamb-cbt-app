@@ -1,0 +1,407 @@
+[
+  {
+    "subject_code": "PHY",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "A few grains of table salt were put in a cup of cold water, kept at constant temperature and left undistributed. Eventually all the water tested salty. This action is due to?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "convection"
+      },
+      {
+        "key": "B",
+        "text": "osmosis"
+      },
+      {
+        "key": "C",
+        "text": "capillarity"
+      },
+      {
+        "key": "D",
+        "text": "diffusion"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "The force required to make an object of mass m, travelling with velocity v, turn in a circle of radius r is",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "mv²/r"
+      },
+      {
+        "key": "B",
+        "text": "mr²/v"
+      },
+      {
+        "key": "C",
+        "text": "mrv"
+      },
+      {
+        "key": "D",
+        "text": "mv/r²"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "A machine gun with a mass of 5kg fires a 50g bullet at a speed of 100 ms⁻¹. The recoil speed of the machine gun is",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0.5 ms⁻¹"
+      },
+      {
+        "key": "B",
+        "text": "1.5 ms⁻¹"
+      },
+      {
+        "key": "C",
+        "text": "1 ms⁻¹"
+      },
+      {
+        "key": "D",
+        "text": "2 ms⁻¹"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "If in a simple pendulum experiment the length of the inextensible string is increased by a factor of four, its period is increased by a factor of?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "4"
+      },
+      {
+        "key": "B",
+        "text": "π²"
+      },
+      {
+        "key": "C",
+        "text": "1/4"
+      },
+      {
+        "key": "D",
+        "text": "2"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "In what range of temperature is the expansion of water anomalous?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "+208°C to +212°C"
+      },
+      {
+        "key": "B",
+        "text": "-80°C to -76°C"
+      },
+      {
+        "key": "C",
+        "text": "0°C to +4°C"
+      },
+      {
+        "key": "D",
+        "text": "-4°C to +0°C"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "Which of the following statements about radioactivity is true?\n\n(i) Alpha particle is positively charged\n\n(ii) Beta particle is negatively charged\n\n(iii) Gamma ray is neutral\n\n(iv) Beta particle has the  same mass as helium atom\n\n(v) Gamma ray is charged.",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "i, ii, iii, iv only"
+      },
+      {
+        "key": "B",
+        "text": "i, ii, iii only"
+      },
+      {
+        "key": "C",
+        "text": "iv and v only"
+      },
+      {
+        "key": "D",
+        "text": "i, ii and v only"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "In the study of Physics, temperature and heat are often confused with each other. Which of the following statements correctly defines these two elements?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Temperature is a measure of the average kinetic energy of the molecules of a substance"
+      },
+      {
+        "key": "B",
+        "text": "Heat is a measure of the total kinetic energy of the molecules in a system"
+      },
+      {
+        "key": "C",
+        "text": "Different materials require different amounts of heat to cause a given change in temperature"
+      },
+      {
+        "key": "D",
+        "text": "All of the above"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "The effect of closing the key K in the circuit shown in the figure above would be to?",
+    "image_url": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612576/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_8_x9t0jv.jpg",
+    "options": [
+      {
+        "key": "A",
+        "text": "increase the current by 0.4A"
+      },
+      {
+        "key": "B",
+        "text": "reduce the current by 0.4A"
+      },
+      {
+        "key": "C",
+        "text": "increase the current by 0.6A"
+      },
+      {
+        "key": "D",
+        "text": "reduce the current by 0.6A"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "Which of the following statements on the use of X-rays is incorrect? X-rays are used",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "In a hospital to obtain photographs of tissues and bones in the body"
+      },
+      {
+        "key": "B",
+        "text": "For the treatment of malignant growths like cancer cells"
+      },
+      {
+        "key": "C",
+        "text": "In detecting fingerprints"
+      },
+      {
+        "key": "D",
+        "text": "To reveal hidden flaws in metal castings and welded joints work of art"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "Natural radioactivity consists of emission?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "α\n -particles and β\n-rays"
+      },
+      {
+        "key": "B",
+        "text": "α\n-particles and X-rays"
+      },
+      {
+        "key": "C",
+        "text": "γ\n -ray and X-rays"
+      },
+      {
+        "key": "D",
+        "text": "α\n -particles and β\n-rays and γ\n-rays"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "If a source of solid is moving, a stationary listener will hear a sound of different frequency. This is called?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "doppler effect"
+      },
+      {
+        "key": "B",
+        "text": "resonance"
+      },
+      {
+        "key": "C",
+        "text": "ultra sound"
+      },
+      {
+        "key": "D",
+        "text": "rarefaction"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "Which of the following can be described as high tension transmission?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "High resistance and low voltage"
+      },
+      {
+        "key": "B",
+        "text": "Low current and high voltage"
+      },
+      {
+        "key": "C",
+        "text": "High current and low voltage"
+      },
+      {
+        "key": "D",
+        "text": "High current and low resistance"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "What is the cost of running five 50W lamps and four 100W lamps for 10 hours if electrical energy costs 2 Kobo per KWh?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "N0.65"
+      },
+      {
+        "key": "B",
+        "text": "N0.39"
+      },
+      {
+        "key": "C",
+        "text": "N3.90"
+      },
+      {
+        "key": "D",
+        "text": "N0.13"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "Tha mass of a proton is approximately equal to that of",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "an α\n-particle"
+      },
+      {
+        "key": "B",
+        "text": "a β\n-Particle"
+      },
+      {
+        "key": "C",
+        "text": "a neutron"
+      },
+      {
+        "key": "D",
+        "text": "an electron"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "A transformer has 300 turns of wire in the primary coil and 30 turns in the secondary coil. If the input voltage is 100 volts, the output voltage is",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "5 volts"
+      },
+      {
+        "key": "B",
+        "text": "10 volts"
+      },
+      {
+        "key": "C",
+        "text": "15 volts"
+      },
+      {
+        "key": "D",
+        "text": "20 volts"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  }
+]

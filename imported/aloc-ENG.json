@@ -1,0 +1,407 @@
+[
+  {
+    "subject_code": "ENG",
+    "exam_year": 2003,
+    "question_type": "past",
+    "stem": "[most appropriate option] He put…………..  eggs in a basket.",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "white dozen eggs"
+      },
+      {
+        "key": "B",
+        "text": "a dozen white eggs"
+      },
+      {
+        "key": "C",
+        "text": "a white dozen eggs"
+      },
+      {
+        "key": "D",
+        "text": "dozen white"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ENG",
+    "exam_year": 2004,
+    "question_type": "past",
+    "stem": "[choose the option that best completes the gap(s).] I shall find time for my ……… when I get …… with this difficult assignment.",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pat time /over"
+      },
+      {
+        "key": "B",
+        "text": "pass-time/over"
+      },
+      {
+        "key": "C",
+        "text": "pastime/through"
+      },
+      {
+        "key": "D",
+        "text": "pastime/through"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ENG",
+    "exam_year": 2005,
+    "question_type": "past",
+    "stem": "[select the option that best explains the information conveyed in the sentence.] If the rain hadn’t fallen, we wouldn’t have missed the match.",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The rain is falling, so we will miss the match."
+      },
+      {
+        "key": "B",
+        "text": "The rain fell, so we didn’t watch the match"
+      },
+      {
+        "key": "C",
+        "text": "The rain fell, so we watched the match"
+      },
+      {
+        "key": "D",
+        "text": "The rain didn’t fall, so we didn’t watch the match."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ENG",
+    "exam_year": 2006,
+    "question_type": "past",
+    "stem": "[choose the option that best completes the gap(s).] The police claim that a number of stolen cars…… recovered",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "have been"
+      },
+      {
+        "key": "B",
+        "text": "has been"
+      },
+      {
+        "key": "C",
+        "text": "has being"
+      },
+      {
+        "key": "D",
+        "text": "have being"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ENG",
+    "exam_year": 2007,
+    "question_type": "past",
+    "stem": "[choose the option nearest in meaning to the word or phrase in italics.] He <i>deprecated</i> the attempts made to unseat him.",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "despised"
+      },
+      {
+        "key": "B",
+        "text": "challenged"
+      },
+      {
+        "key": "C",
+        "text": "resisted"
+      },
+      {
+        "key": "D",
+        "text": "condemned"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ENG",
+    "exam_year": 2008,
+    "question_type": "past",
+    "stem": "[select the option that bost explains the information conveyed in the sentence.] He needn't have bought that new table",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "It isn't possible that he bought the table"
+      },
+      {
+        "key": "B",
+        "text": "He bought the table, but it wasn't necessary"
+      },
+      {
+        "key": "C",
+        "text": "He didn’t buy the table because it wasn't necessary"
+      },
+      {
+        "key": "D",
+        "text": "He doesn't need to buy the table"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ENG",
+    "exam_year": 2009,
+    "question_type": "past",
+    "stem": "[select the option that best explains the information conveyed in the sentence.] It was our collective idea but Ado was doing every­ thing to steal the snow",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ado was not part of the planning but he tried to rub us of the benefits of it."
+      },
+      {
+        "key": "B",
+        "text": "We planned the show together out Ado was trying to abort it."
+      },
+      {
+        "key": "C",
+        "text": "It was a joint project but Ado is trying to attract the most attention"
+      },
+      {
+        "key": "D",
+        "text": "We collated the idea for the show but Ado was trying to steal the programme."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ENG",
+    "exam_year": 2010,
+    "question_type": "past",
+    "stem": "[select the option that best explains the Information conveyed In the sentence.] Though Mr, Iro is our new chairman, he views other members with jaundiced eye,",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "He takes a rather forceful position on dealing with his members."
+      },
+      {
+        "key": "B",
+        "text": "He takes an unfavourable position concerning his members"
+      },
+      {
+        "key": "C",
+        "text": "He takes a sickly view of his members."
+      },
+      {
+        "key": "D",
+        "text": "He takes a rather hazy view of his members."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ENG",
+    "exam_year": 2001,
+    "question_type": "past",
+    "stem": "[By 1910, the motor car was plainly conquering the highway. The private car was now part of every rich man’s establishment, although its price made it as yet an impossible luxury for most of the middle class. But for the adventuresome youth, there was the motor cycle, a fearsome invention producing accidents and ear- splitting noises. Already the dignified carriages and smart pony- traps were beginning to disappear from the roads and coachmen\nand grooms unless mechanically minded, were finding it more difficult to make a living.<br><br>The roads which had gone to sleep since the coming of the railway now awoke to feverish activity. Cars and motor cycles dashed along them at speeds which rivalled those of the express trains and the lorry began to appear. Therefore, the road system was compelled to adapt itself to a volume and speed of traffic for which it had never intended. Its complete adaptation was impossible, but the road surface was easily transformed and during the early years of the century, the dustiness and greasiness of the highways were lessened by tar-spraying. To widen and straighten the roads and get rid of blind corners and every steep gradient were tasks which had scarcely been tackled before 1914. the Situation was worst of all in towns where not only was any large scheme of road widening usually out of the question, but also where crowding and danger were all too frequently increased by the short-sighted eagerness of town authorities in laying down tramlines. <br><br> Yet, it was not only the road system that was in need of readjustment; the nervous system who used and dwelt by the road suffered. The noises caused by the conversion of the roads into speedways called for a corresponding lightening up of the nerves and especially I the towns, the pedestrian who wished to preserve life and limb was compelled to keep his attention continually on the stretch to practise himself in estimates of the speed of approaching vehicles and to run or jump for his life if he ventured off the pavement.] One of the following statements can be deduced from the passage",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "people no longer used trains with the advant of cars and lorries"
+      },
+      {
+        "key": "B",
+        "text": "significant improvement occured in road trandport since the advent of cars, lorries and motor cycles"
+      },
+      {
+        "key": "C",
+        "text": "human society was ststic without the express spees of cars and motorcycles"
+      },
+      {
+        "key": "D",
+        "text": "society would be better without the chaotic volumes and speed of motor cars, lorries and motor cycles"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ENG",
+    "exam_year": 2000,
+    "question_type": "past",
+    "stem": "[Time was when boys used to point toy guns and say ‘Bang’. Now, they aim real guns and shoot one another. Nearly 4,200 teenagers were killed by firearms in 1990. Only motor vehicle accidents kill most teenagers than firearms and the firearms figures are rising. The chance that a black male between the ages of 15 and 19 will be killed by a gun has almost tripled since 1985 and almost double for white males, according to the National Centre for Health Statistics.  <br><br>Who could disagree with Health and Human services secretary, Donna Shalala, when she pronounced these statistics ‘frightening and intolerable?’. In the shameful light of this ‘waste of young lives’ in Ms Shalala’s words, an often-asked question seems urgently due to be raised again. Would less violence on television, the surrounding environment for most children and young adults make violence in actual life less normal, less accepted, less horrifying? <br><br>It may be difficult to prove an exact correlation between the viewer of fantasized violence and the criminal who acts out violence after turning off the set. But if the premise of education is granted-that good models can influence the young-then it follows that bad models can have an equivalent harmful effects. This is the reasonable hypothesis held, by 80 per cent of the respondents to a recent Time Mirror [poll who think that violent entertainment is ‘harmful’ to the society. Witness enough mimed shootouts; see enough ‘corpses’ fall across the screen and the taking of a human life seems no big deal. Even if a simple causal relationship cannot be established between watching violence and acting it out, is not this numbed sensitivity reason enough for cutting back on the overkill in films and TV?] The writer uses 'numbed sensitivity' to refer to",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "deadening of the capacity to feel"
+      },
+      {
+        "key": "B",
+        "text": "objectiionable behaviour"
+      },
+      {
+        "key": "C",
+        "text": "heartlessness on the part of actors"
+      },
+      {
+        "key": "D",
+        "text": "unreasonable violence"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ENG",
+    "exam_year": 2002,
+    "question_type": "past",
+    "stem": "[If our thoughts is to be clear and we are to succeed in communicating it to other people, we must hbr>ave some method of fixing the meaning of the words we use. When we use a word whose meaning is not certain, we may well be asked to define it. There is a usual traditional device for doing this by indicating the class to which whatever is indicated by the term belongs and also other particular property which distinguishes it from all other members of the same class. Thus we may define a whale as a ‘marine animal that spouts’. ‘Marine animals’ in this definition indicates the general class to which the whale belongs and ‘spouts’ indicates the particular property that distinguishes whales from other such marine animals as fishes, seals, jellyfish and lobsters. In the same way, we can define an even number as a finite integer divisible by two or a democracy as a system of government in which the people themselves rule.<br><br>There are other ways, of course of indicating the meaning of words. We may for example, find it hard to make a suitable definition of the word ‘animal’, as we say that an animal is such a thing as a rabbit, dog fish or goat. Similarly, we may say that religion is such a system as Christianity, Islam, Judaism and Buddhism. This way of indicating the meaning of a term by enumerating examples of what it includes is obviously of limited usefulness. If we indicate our use of the word ‘animal’ as above, our hearers might for example be doubtful whether a sea- anemone or a slug was to be included in the class of animals. It is however, a useful way of supplementing a definition if the definition itself id definite without being easily understandable. Failure of an attempt at definition to serve its purpose may result from giving as distinguishing mark one which either does not belong to all the things the definition id intended to include, or does belong to some members of the same general class which the definition is intended to exclude.] the writer uses the expression 'fixing the meaning of the words we use' to mean",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "using definition to help people communicate their thoughts and argue"
+      },
+      {
+        "key": "B",
+        "text": "getting even with the people who always ask for definitions"
+      },
+      {
+        "key": "C",
+        "text": "repair the damage done by inadequate definition during communication"
+      },
+      {
+        "key": "D",
+        "text": "using definitionto help people build up their vocabulary"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ENG",
+    "exam_year": 2021,
+    "question_type": "past",
+    "stem": "[Read the passages below and answer the questions that follow: \n<br><br>\nEveryone is tired or fatigued at some time. The major cycle in your life is work, fatigue and rest in that order. Fatigue is characteristic of your body. It does not occur in a man-made machine which operates as long as its parts are intact and it has fuel. But your body, a living machine, has a definite limitation - its work continues, it gradually loses its responsiveness, becomes less irritable, turns out less work and finally may not respond at all. The feeling of fatigue usually expresses itself in three ways: first, there is a feeling of tiredness and a marked desire for rest. Second, efficiency is greatly reduced. Third, there may be definite physiological changes in your body, low blood pressure, loss of muscle tone, tremors, and poor muscular coordination, and in other ways. Fatigue, however, may express itself in many ways for there are many different forms of it. The fatigue of a student. for example, who has worked all evening on a difficult lesson, is different from that of a labourer who has worked all day at a back- breaking task, or that of a business executive who worries with the stress and strain of organisation.] A suitable title for the passage is",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Knowing fatigue"
+      },
+      {
+        "key": "B",
+        "text": "Fatigue"
+      },
+      {
+        "key": "C",
+        "text": "Tiredness and fatigue"
+      },
+      {
+        "key": "D",
+        "text": "Body machine"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ENG",
+    "exam_year": 2022,
+    "question_type": "past",
+    "stem": "[This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"] What did the author of the book study?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "B.Sc (Ed) Mathematics"
+      },
+      {
+        "key": "B",
+        "text": "B.A English Language"
+      },
+      {
+        "key": "C",
+        "text": "B.A Literary Studies"
+      },
+      {
+        "key": "D",
+        "text": "BSc Political Science"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ENG",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "[Theatre in the recent past used to be a very popular art in traditional African society. It used to be a point of intersection where members of the community not only come to entertain themselves, 'but join heads together'. In the traditional context of African drama, therefore, theatre was popular and respectable institution which preserved the people's culture and tradition. Theatre was popular with the people because it emphasized community participation, peace and progress. The presentations focused on the people's lives, their aspirations, fears, and hopes. But today, the situation is different. Theatre is becoming very unpopular. <br><br>\nAfrica of the present age is pre-occupied with many problems yearning for immediate solutions. The continent is facing hydra- head challenges - challenges on the political, social, and economic scenes. In a world where Science and Technology are seen as the solutions to these problems, little attention is paid to the arts. Literature generally, and drama in particular is often rated very low on the utility-scale. Many Africa today look at drama and theatre as a mere thing of fun, a joke so to say.  <br><br>\nElitism is another barrier that militates against the appreciation of theatre as a communal art. Folk theatre is appreciated by a negligible number of people, contemporary focus is on literary theatre. Unfortunately, literary theatre only pretends to serve the interest of its society while in reality, it has a foreign audience in mind. The use of European and American theatrical conventions by our academic playwrights can bear witness to this anomaly.  <br><br>\nThe popularity of the literary African theatre is further marred by the medium of communication as most literary dramas in Africa are written in foreign languages which are not understood by many Africans. The question often asked is whether the artist should climb down to the level of his community of stay at his exalted height and wait for the community to gradually move up to him.] Theatre was popular in Africa because__________",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "was traditional and simple in nature"
+      },
+      {
+        "key": "B",
+        "text": "dealt with the political, social, and economic problems of the society"
+      },
+      {
+        "key": "C",
+        "text": "was a source of fun"
+      },
+      {
+        "key": "D",
+        "text": "was communal and reflected the common concerns of the people"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ENG",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "[Choose the one nearest in meaning to the word(s) in bracket] Okibe was rusticated for his [derogatory] remark about the principal",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "complimentary"
+      },
+      {
+        "key": "B",
+        "text": "unwarranted"
+      },
+      {
+        "key": "C",
+        "text": "lack luster"
+      },
+      {
+        "key": "D",
+        "text": "unsavoury"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,407 @@
+[
+  {
+    "subject_code": "GOV",
+    "exam_year": 2016,
+    "question_type": "past",
+    "stem": "The Land Use Decree of 1978 vested the ownership of land in Nigeria in the",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "State Governments"
+      },
+      {
+        "key": "B",
+        "text": "Federal Government"
+      },
+      {
+        "key": "C",
+        "text": "Local Governments"
+      },
+      {
+        "key": "D",
+        "text": "Local Chiefs"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GOV",
+    "exam_year": 2013,
+    "question_type": "past",
+    "stem": "Power that is delegated is exercised",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "indirectly"
+      },
+      {
+        "key": "B",
+        "text": "by devolution"
+      },
+      {
+        "key": "C",
+        "text": "directly"
+      },
+      {
+        "key": "D",
+        "text": "by coercion."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GOV",
+    "exam_year": 2010,
+    "question_type": "past",
+    "stem": "Nation-state is synonymous with",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "liberation"
+      },
+      {
+        "key": "B",
+        "text": "sovereignty"
+      },
+      {
+        "key": "C",
+        "text": "nationalism"
+      },
+      {
+        "key": "D",
+        "text": "self-actualization"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GOV",
+    "exam_year": 2012,
+    "question_type": "past",
+    "stem": "The distinctive attribute of a state is the monopoly of",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "control"
+      },
+      {
+        "key": "B",
+        "text": "power"
+      },
+      {
+        "key": "C",
+        "text": "violence"
+      },
+      {
+        "key": "D",
+        "text": "justice."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GOV",
+    "exam_year": 2014,
+    "question_type": "past",
+    "stem": "The necessary attributes of a state are",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "resources, population, sovereignty and government"
+      },
+      {
+        "key": "B",
+        "text": "sovereignty, police, army and immigration"
+      },
+      {
+        "key": "C",
+        "text": "definite territory, population, sovereignty and government"
+      },
+      {
+        "key": "D",
+        "text": "police, army, sovereignty custom."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GOV",
+    "exam_year": 2017,
+    "question_type": "past",
+    "stem": "Which of the following is a foremost right of a citizen?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Religious right"
+      },
+      {
+        "key": "B",
+        "text": "Academic right"
+      },
+      {
+        "key": "C",
+        "text": "Right to life"
+      },
+      {
+        "key": "D",
+        "text": "Private life."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GOV",
+    "exam_year": 2018,
+    "question_type": "past",
+    "stem": "Between 1960 and 1980, Nigeria experienced all the following systems of government except",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "unitary"
+      },
+      {
+        "key": "B",
+        "text": "federal"
+      },
+      {
+        "key": "C",
+        "text": "confederal"
+      },
+      {
+        "key": "D",
+        "text": "parliamentary"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GOV",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "In a democratic system _______",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Majority Vote"
+      },
+      {
+        "key": "B",
+        "text": "Legal Sovereignty shouldn't be unquestionable"
+      },
+      {
+        "key": "C",
+        "text": "Electoral college is always necessary"
+      },
+      {
+        "key": "D",
+        "text": "Minority vote but majority rule"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GOV",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "A constitution is a legal document _________",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "drawn up by lawyers"
+      },
+      {
+        "key": "B",
+        "text": "enacted by military decrees"
+      },
+      {
+        "key": "C",
+        "text": "forming the basis upon which a government rules the country"
+      },
+      {
+        "key": "D",
+        "text": "only likely to succeed in countries where there is union government"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GOV",
+    "exam_year": 2021,
+    "question_type": "past",
+    "stem": "The Nigeria's head of government in 1963 was _____",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Chief Nnamdi Azikiwe"
+      },
+      {
+        "key": "B",
+        "text": "General Yakubu Gowon"
+      },
+      {
+        "key": "C",
+        "text": "Alhaji Abubakar Tafawa"
+      },
+      {
+        "key": "D",
+        "text": "Major Gen. Aguiyi Ironsi"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GOV",
+    "exam_year": 2022,
+    "question_type": "past",
+    "stem": "The highest authority in the Yoruba pre-colonial era was the _____",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ogboni"
+      },
+      {
+        "key": "B",
+        "text": "Oba"
+      },
+      {
+        "key": "C",
+        "text": "Oyomesi"
+      },
+      {
+        "key": "D",
+        "text": "Balogun"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GOV",
+    "exam_year": 2023,
+    "question_type": "past",
+    "stem": "Which of the following is a fundamental principle of democratic governance?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Centralized decision-making"
+      },
+      {
+        "key": "B",
+        "text": "Censorship of the media"
+      },
+      {
+        "key": "C",
+        "text": "Citizen Participation"
+      },
+      {
+        "key": "D",
+        "text": "Authoritarianism"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GOV",
+    "exam_year": 2024,
+    "question_type": "past",
+    "stem": "The party system that Nigeria operated in the aborted Third Republic is",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "zero party system"
+      },
+      {
+        "key": "B",
+        "text": "one party system"
+      },
+      {
+        "key": "C",
+        "text": ". two party system"
+      },
+      {
+        "key": "D",
+        "text": "multi-party system"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GOV",
+    "exam_year": 2001,
+    "question_type": "past",
+    "stem": "Power differs from influence in that it is",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "persuasive while influence is directive"
+      },
+      {
+        "key": "B",
+        "text": "coercive while influence is harmful"
+      },
+      {
+        "key": "C",
+        "text": "coercive while influence is persuasive"
+      },
+      {
+        "key": "D",
+        "text": "arrogant while influence is corruptive"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GOV",
+    "exam_year": 2002,
+    "question_type": "past",
+    "stem": "Delegated legislature becomes unavoidable when",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "legislators cannot reach a consensus"
+      },
+      {
+        "key": "B",
+        "text": "issues under consideration are personal"
+      },
+      {
+        "key": "C",
+        "text": "issues under consideration are technical"
+      },
+      {
+        "key": "D",
+        "text": "legislators have to proceed on a recess."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  }
+]

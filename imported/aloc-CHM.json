@@ -1,0 +1,407 @@
+[
+  {
+    "subject_code": "CHM",
+    "exam_year": 2001,
+    "question_type": "past",
+    "stem": "25cm3 of a gas X contains Zmolecules at 150C and 75mmHg. How many molecules will 25cmm3 of another gas Y contain at the same temperature and pressure",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2Y"
+      },
+      {
+        "key": "B",
+        "text": "2Z"
+      },
+      {
+        "key": "C",
+        "text": "Z"
+      },
+      {
+        "key": "D",
+        "text": "Y"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CHM",
+    "exam_year": 2002,
+    "question_type": "past",
+    "stem": "Which of the following gases contains the least number of atoms at s.t.p",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "4 moles of chlorine"
+      },
+      {
+        "key": "B",
+        "text": "3 moles of ozone"
+      },
+      {
+        "key": "C",
+        "text": "1 mole of butane"
+      },
+      {
+        "key": "D",
+        "text": "7 moles of argon"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CHM",
+    "exam_year": 2003,
+    "question_type": "past",
+    "stem": "What volume of oxygen is produced from the decomposition of 2 moles of KClO3 at s.t.p   [Molar volume of a gas at s.t.p = 22.4 dm3]",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "22.4 dm3"
+      },
+      {
+        "key": "B",
+        "text": "33.6 dm3"
+      },
+      {
+        "key": "C",
+        "text": "44.8 dm3"
+      },
+      {
+        "key": "D",
+        "text": "67.2 dm3"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CHM",
+    "exam_year": 2004,
+    "question_type": "past",
+    "stem": "When a solid substance disappears completely as a gas on heating, the substance is said to have under gone",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Evaporation"
+      },
+      {
+        "key": "B",
+        "text": "Distillation"
+      },
+      {
+        "key": "C",
+        "text": "Crystallization"
+      },
+      {
+        "key": "D",
+        "text": "Sublimation"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CHM",
+    "exam_year": 2005,
+    "question_type": "past",
+    "stem": "The gas that can be dried using concentrated Tetraoxosulphate (VI) acid is",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ammonia"
+      },
+      {
+        "key": "B",
+        "text": "Hydrogen bromide"
+      },
+      {
+        "key": "C",
+        "text": "Sulphur (IV) oxide"
+      },
+      {
+        "key": "D",
+        "text": "Hydrogen sulphide"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CHM",
+    "exam_year": 2006,
+    "question_type": "past",
+    "stem": "H2(g)  +  Br2(g) →  2BHr(g)  The reaction above is carried out at 250C. If Δ H is kJ mol-1 and   Δ S is -106J mol-1K-1 the reaction will",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Proceed spontaneously at lower temperatures"
+      },
+      {
+        "key": "B",
+        "text": "Not proceed spontaneously at the given temperature"
+      },
+      {
+        "key": "C",
+        "text": "Proceed spontaneously at the given temperature"
+      },
+      {
+        "key": "D",
+        "text": "[proceed in the reverse direction at the given temperature"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CHM",
+    "exam_year": 2010,
+    "question_type": "past",
+    "stem": "Which of the following is an example of a mixture",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Blood"
+      },
+      {
+        "key": "B",
+        "text": "Sand"
+      },
+      {
+        "key": "C",
+        "text": "Washing soda"
+      },
+      {
+        "key": "D",
+        "text": "Common salt"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CHM",
+    "exam_year": 2015,
+    "question_type": "past",
+    "stem": "The filter in the cigarette reduce the nicotine construct by",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "burning"
+      },
+      {
+        "key": "B",
+        "text": "adsorption"
+      },
+      {
+        "key": "C",
+        "text": "evaporation"
+      },
+      {
+        "key": "D",
+        "text": "Absorption"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CHM",
+    "exam_year": 2016,
+    "question_type": "past",
+    "stem": "In an electrochemical cell, polarization is caused by",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Oxygen"
+      },
+      {
+        "key": "B",
+        "text": "Hydrogen"
+      },
+      {
+        "key": "C",
+        "text": "Tetraoxosulphate (IV) acid"
+      },
+      {
+        "key": "D",
+        "text": "Chlorine"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CHM",
+    "exam_year": 2017,
+    "question_type": "past",
+    "stem": "The general formula of alkanones is",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "RCHO"
+      },
+      {
+        "key": "B",
+        "text": "RCOR'"
+      },
+      {
+        "key": "C",
+        "text": "RCOOH"
+      },
+      {
+        "key": "D",
+        "text": "RCOOR"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CHM",
+    "exam_year": 2018,
+    "question_type": "past",
+    "stem": "A given amount of gas occupies 10.0 dm³ at 4 atm and 273°C. The number of moles of the gas present is? [Molar volume of gas at s.t.p = 22.4 dm³]",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0.89 mol"
+      },
+      {
+        "key": "B",
+        "text": "1.90 mol"
+      },
+      {
+        "key": "C",
+        "text": "3.80 mol"
+      },
+      {
+        "key": "D",
+        "text": "5.70 mol"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CHM",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "A secondary alkanol can be oxidized to give an?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "alkanone"
+      },
+      {
+        "key": "B",
+        "text": "alkyne"
+      },
+      {
+        "key": "C",
+        "text": "alkanoic acid"
+      },
+      {
+        "key": "D",
+        "text": "alkanal"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CHM",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "The electronic configuration of an element is 1S² 2S² 2P⁶ 3S² 3P³. How many unpaired electrons are there in the element?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "5"
+      },
+      {
+        "key": "B",
+        "text": "4"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "2"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CHM",
+    "exam_year": 2021,
+    "question_type": "past",
+    "stem": "Give the common name for the following compound (CH₃)₂ CH CH₂ -Br",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Isobutyl bromide"
+      },
+      {
+        "key": "B",
+        "text": "Methyl bromide"
+      },
+      {
+        "key": "C",
+        "text": "Propyl bromide"
+      },
+      {
+        "key": "D",
+        "text": "Butyl bromide"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CHM",
+    "exam_year": 2022,
+    "question_type": "past",
+    "stem": "The sub-atomic particles located in the nucleus of an atom are?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "neutron and proton"
+      },
+      {
+        "key": "B",
+        "text": "proton and electron"
+      },
+      {
+        "key": "C",
+        "text": "proton and ions"
+      },
+      {
+        "key": "D",
+        "text": "neutron and electron"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  }
+]

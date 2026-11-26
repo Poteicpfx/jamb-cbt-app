@@ -1,0 +1,407 @@
+[
+  {
+    "subject_code": "ACC",
+    "exam_year": 2007,
+    "question_type": "past",
+    "stem": "A company has departments X, Y and Z. Department X occupies a space twice that of Y while Z   occupies half the space of  Y. If the company pays N 70 000 on rent, what is the amount of rent that should be allocated to Y?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "N 30,000"
+      },
+      {
+        "key": "B",
+        "text": "N 40,000"
+      },
+      {
+        "key": "C",
+        "text": "N 20,000"
+      },
+      {
+        "key": "D",
+        "text": "N 10, 000."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ACC",
+    "exam_year": 2009,
+    "question_type": "past",
+    "stem": "Which of the following branches of accounting was first developed?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cost accounting"
+      },
+      {
+        "key": "B",
+        "text": "Financial accounting"
+      },
+      {
+        "key": "C",
+        "text": "Management accounting"
+      },
+      {
+        "key": "D",
+        "text": "Petroleum accounting"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ACC",
+    "exam_year": 2015,
+    "question_type": "past",
+    "stem": "Use the information below to answer this question\n\nSegunOjo, didn’t keep her books on double principle. On 1st Jan, 2014, cash in hand was ₦850, bank overdraft ₦3,500, debtor ₦15,500,stock ₦18,000, fittings 9,000 and creditors ₦12,700. As at Dec, 2014, cash in hand was ₦1,200, cash at bank ₦2,500, debtors ₦10,000, stock ₦20,500, furnishing ₦4,000 and creditors ₦17,000\n\nDetermine the closing capital 31/12/2014",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "₦17,500"
+      },
+      {
+        "key": "B",
+        "text": "₦38,200"
+      },
+      {
+        "key": "C",
+        "text": "₦20,700"
+      },
+      {
+        "key": "D",
+        "text": "₦21,200"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ACC",
+    "exam_year": 2016,
+    "question_type": "past",
+    "stem": "Balance as per cashbook ₦2, 970\nBank Charges ₦220\nUnpresented cheques ₦3, 950\nUncredited cheques ₦4, 178\nDirect debit by bank ₦1, 0000\n\nDetermine the balance as per bank statement.",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "₦ 1,978"
+      },
+      {
+        "key": "B",
+        "text": "₦ 1962"
+      },
+      {
+        "key": "C",
+        "text": "₦ 1,522"
+      },
+      {
+        "key": "D",
+        "text": "₦ 2,522"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ACC",
+    "exam_year": 2017,
+    "question_type": "past",
+    "stem": "Which of these accounts is dissolution expenses credited?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "partners capital account"
+      },
+      {
+        "key": "B",
+        "text": "revaluation account"
+      },
+      {
+        "key": "C",
+        "text": "partners current account"
+      },
+      {
+        "key": "D",
+        "text": "Realization account"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ACC",
+    "exam_year": 2018,
+    "question_type": "past",
+    "stem": "Statement of Financial Position as at 31st Dec 2010 showing:\n\nNoncurrent assets: Plant and equipment ₦10,000\nCurrent assets: Stock ₦7,000, Receivables ₦5,000 (Total current assets ₦12,000)\nTotal assets ₦22,000\nCapital ₦15,000\nCurrent liabilities: Payables ₦7,000\nTotal ₦22,000\n\nWhat is the amount of capital employed?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "₦7000"
+      },
+      {
+        "key": "B",
+        "text": "₦10000"
+      },
+      {
+        "key": "C",
+        "text": "₦22000"
+      },
+      {
+        "key": "D",
+        "text": "₦15000"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ACC",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "Transactions are recorded or posted to the ledger in line with",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Accounting Concept"
+      },
+      {
+        "key": "B",
+        "text": "Source document"
+      },
+      {
+        "key": "C",
+        "text": "Double Entry Principle"
+      },
+      {
+        "key": "D",
+        "text": "Data collection"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ACC",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "Under which of the following conditions is a partnership dissolved?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "change of the partnership's head office"
+      },
+      {
+        "key": "B",
+        "text": "purchase of a large quantity of fixed assets"
+      },
+      {
+        "key": "C",
+        "text": "admission of a new partner"
+      },
+      {
+        "key": "D",
+        "text": "retirement of a manager who is not a partner"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ACC",
+    "exam_year": 2021,
+    "question_type": "past",
+    "stem": "Sales ledger control account contains the total amount in respect of",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "investors"
+      },
+      {
+        "key": "B",
+        "text": "creditors"
+      },
+      {
+        "key": "C",
+        "text": "shareholders"
+      },
+      {
+        "key": "D",
+        "text": "debtors"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ACC",
+    "exam_year": 2024,
+    "question_type": "past",
+    "stem": "The amount by which assets exceeds liabilities is",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "capital"
+      },
+      {
+        "key": "B",
+        "text": "premium"
+      },
+      {
+        "key": "C",
+        "text": "bonus"
+      },
+      {
+        "key": "D",
+        "text": "provision"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ACC",
+    "exam_year": 2022,
+    "question_type": "past",
+    "stem": "The correct posting in a double entry system of account when there is an increase in double assets, expenses, capital or liabilities is to debit",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "capital and debit liabilities"
+      },
+      {
+        "key": "B",
+        "text": "liabilities and credit assets"
+      },
+      {
+        "key": "C",
+        "text": "assets and credit capital"
+      },
+      {
+        "key": "D",
+        "text": "capital and credit assets"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ACC",
+    "exam_year": 2023,
+    "question_type": "past",
+    "stem": "The following are importance of branch account except",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "it allows fraud and wastage of resources"
+      },
+      {
+        "key": "B",
+        "text": "it assist the organization to determine the performance of a branch manager"
+      },
+      {
+        "key": "C",
+        "text": "it enable the organization to determine the branch that is making either profit or loss"
+      },
+      {
+        "key": "D",
+        "text": "it allows proper control over the branch by the head office"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ACC",
+    "exam_year": 2008,
+    "question_type": "past",
+    "stem": "One of the major features of bookkeeping is that it?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "provides permanent records for all financial transactions"
+      },
+      {
+        "key": "B",
+        "text": "is futuristic in nature"
+      },
+      {
+        "key": "C",
+        "text": "accpets responsibility for all wrong postings"
+      },
+      {
+        "key": "D",
+        "text": "does not give room for double entry procedures"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ACC",
+    "exam_year": 2005,
+    "question_type": "past",
+    "stem": "The double principle of accounting was developed by?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Frank Wood"
+      },
+      {
+        "key": "B",
+        "text": "Luca Pacioli"
+      },
+      {
+        "key": "C",
+        "text": "Akintola Williams"
+      },
+      {
+        "key": "D",
+        "text": "William Pickles"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ACC",
+    "exam_year": 2004,
+    "question_type": "past",
+    "stem": "The accounting principle that is applied to check arbitrary actions on the part of accountants is?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "consistency"
+      },
+      {
+        "key": "B",
+        "text": "materiality"
+      },
+      {
+        "key": "C",
+        "text": "objectivity"
+      },
+      {
+        "key": "D",
+        "text": "realization"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  }
+]

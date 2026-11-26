@@ -1,0 +1,407 @@
+[
+  {
+    "subject_code": "CRS",
+    "exam_year": 2009,
+    "question_type": "past",
+    "stem": "In Timothy, Paul urges Christians to pray for kings and those in authority for the achievement of",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "a successful Christian life"
+      },
+      {
+        "key": "B",
+        "text": "godly and acceptable life"
+      },
+      {
+        "key": "C",
+        "text": "peace and exaltation in life"
+      },
+      {
+        "key": "D",
+        "text": "quiet and peaceable life."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CRS",
+    "exam_year": 2011,
+    "question_type": "past",
+    "stem": "God blessed and hallowed the seventh day because",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "it was the day He rested from creation"
+      },
+      {
+        "key": "B",
+        "text": "it was the day He created man"
+      },
+      {
+        "key": "C",
+        "text": "He wanted it to be a day of worship"
+      },
+      {
+        "key": "D",
+        "text": "He saw that all He had created was good."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CRS",
+    "exam_year": 2013,
+    "question_type": "past",
+    "stem": "The new covenant between God and the Israelites is centered on",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "religious doctrines"
+      },
+      {
+        "key": "B",
+        "text": "intensive teaching"
+      },
+      {
+        "key": "C",
+        "text": "collective responsibility"
+      },
+      {
+        "key": "D",
+        "text": "individual responsibility."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CRS",
+    "exam_year": 2015,
+    "question_type": "past",
+    "stem": "What was Herod’s reaction when he heard the news about Jesus’ birth?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "He sent gifts"
+      },
+      {
+        "key": "B",
+        "text": "He was excited"
+      },
+      {
+        "key": "C",
+        "text": "He was troubled"
+      },
+      {
+        "key": "D",
+        "text": "He became calm"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CRS",
+    "exam_year": 2010,
+    "question_type": "past",
+    "stem": "What was God’s purpose in creating man?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "To be master of all creation"
+      },
+      {
+        "key": "B",
+        "text": "To help Him look after the garden"
+      },
+      {
+        "key": "C",
+        "text": "To name the things He created"
+      },
+      {
+        "key": "D",
+        "text": "To multiply and fill the earth"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CRS",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "“The sword devours now one and now another.” This statement was made by David in reaction to the death of __________.",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Saul"
+      },
+      {
+        "key": "B",
+        "text": "Joab"
+      },
+      {
+        "key": "C",
+        "text": "Ishbosheth"
+      },
+      {
+        "key": "D",
+        "text": "Uriah"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CRS",
+    "exam_year": 2009,
+    "question_type": "past",
+    "stem": "According to Galatians, one of the benefits of being a joint heir with Christ is having His Spirit in",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "worship"
+      },
+      {
+        "key": "B",
+        "text": "the heart"
+      },
+      {
+        "key": "C",
+        "text": "the body"
+      },
+      {
+        "key": "D",
+        "text": "prayers"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CRS",
+    "exam_year": 2011,
+    "question_type": "past",
+    "stem": "Noah’s ark was sustained during the flood by its",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "resting on the highest mountains"
+      },
+      {
+        "key": "B",
+        "text": "being rowed on the waters"
+      },
+      {
+        "key": "C",
+        "text": "floating on the water"
+      },
+      {
+        "key": "D",
+        "text": "being anchored safely"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CRS",
+    "exam_year": 2013,
+    "question_type": "past",
+    "stem": "The ark that God commanded Noah to build was made of",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "acacia wood"
+      },
+      {
+        "key": "B",
+        "text": "gopher wood"
+      },
+      {
+        "key": "C",
+        "text": "cedar wood"
+      },
+      {
+        "key": "D",
+        "text": "cypress wood"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CRS",
+    "exam_year": 2015,
+    "question_type": "past",
+    "stem": "“....... Behold, I will bring evil upon you; I will utterly sweep you away .....” Elijah pronounced destruction on Ahab with the statement above for his sin of",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the killing of God’s prophets"
+      },
+      {
+        "key": "B",
+        "text": "worship of other gods"
+      },
+      {
+        "key": "C",
+        "text": "going to war against Ramoth-gilead"
+      },
+      {
+        "key": "D",
+        "text": "greed, covetousness and murder"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CRS",
+    "exam_year": 2010,
+    "question_type": "past",
+    "stem": "Isaac’s prayer to God for his barren wife showed that he",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "truly loved her"
+      },
+      {
+        "key": "B",
+        "text": "sincerely loved his God"
+      },
+      {
+        "key": "C",
+        "text": "had faith in God"
+      },
+      {
+        "key": "D",
+        "text": "was tired of being childless"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CRS",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "“The sword devours now one and now another.” This statement was David’s reaction to the death of __________.",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Saul"
+      },
+      {
+        "key": "B",
+        "text": "Joab"
+      },
+      {
+        "key": "C",
+        "text": "Ishbosheth"
+      },
+      {
+        "key": "D",
+        "text": "Uriah"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CRS",
+    "exam_year": 2009,
+    "question_type": "past",
+    "stem": "According to Ephesians, children who obey their parents in the Lord will",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "be happy"
+      },
+      {
+        "key": "B",
+        "text": "go to heaven"
+      },
+      {
+        "key": "C",
+        "text": "have long life"
+      },
+      {
+        "key": "D",
+        "text": "be great."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CRS",
+    "exam_year": 2011,
+    "question_type": "past",
+    "stem": "God visited the children of Israel on Mount Sinai during the giving of  the commandments through",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "a storm"
+      },
+      {
+        "key": "B",
+        "text": "mist and dew"
+      },
+      {
+        "key": "C",
+        "text": "smoke and fire"
+      },
+      {
+        "key": "D",
+        "text": "a still small voice"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "CRS",
+    "exam_year": 2013,
+    "question_type": "past",
+    "stem": "During Moses leadership in Israel, he exhibited most importantly, the talent of a",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "mediator"
+      },
+      {
+        "key": "B",
+        "text": "warrior"
+      },
+      {
+        "key": "C",
+        "text": "seer"
+      },
+      {
+        "key": "D",
+        "text": "preacher."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  }
+]

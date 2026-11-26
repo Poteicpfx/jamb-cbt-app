@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+to-csv.mjs
+*.csv
+
+merge-csv.mjs

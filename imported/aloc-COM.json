@@ -1,0 +1,407 @@
+[
+  {
+    "subject_code": "COM",
+    "exam_year": 2004,
+    "question_type": "past",
+    "stem": "Ships that sail across the ocean and operate on scheduled time are",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "ferries"
+      },
+      {
+        "key": "B",
+        "text": "ocean liners"
+      },
+      {
+        "key": "C",
+        "text": "tramp steamers"
+      },
+      {
+        "key": "D",
+        "text": "coastal liner"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "COM",
+    "exam_year": 2005,
+    "question_type": "past",
+    "stem": "A floating policy is an example of",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "marine insurance"
+      },
+      {
+        "key": "B",
+        "text": "actuaries insurance"
+      },
+      {
+        "key": "C",
+        "text": "motor insurance"
+      },
+      {
+        "key": "D",
+        "text": "fire insurance."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "COM",
+    "exam_year": 2006,
+    "question_type": "past",
+    "stem": "Tourism can be classified as",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "tangible import"
+      },
+      {
+        "key": "B",
+        "text": "intangible import"
+      },
+      {
+        "key": "C",
+        "text": "visible export"
+      },
+      {
+        "key": "D",
+        "text": "invisible export"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "COM",
+    "exam_year": 2007,
+    "question_type": "past",
+    "stem": "Consumers require protection against exploitation to ensure",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "adequate consumer awareness"
+      },
+      {
+        "key": "B",
+        "text": "availability of product variety"
+      },
+      {
+        "key": "C",
+        "text": "the sale of quality products"
+      },
+      {
+        "key": "D",
+        "text": "increased aggregate demand."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "COM",
+    "exam_year": 2008,
+    "question_type": "past",
+    "stem": "An aspect of commerce that facilitates the distribution of products is",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "transportation"
+      },
+      {
+        "key": "B",
+        "text": "advertising"
+      },
+      {
+        "key": "C",
+        "text": "branding"
+      },
+      {
+        "key": "D",
+        "text": "trading"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "COM",
+    "exam_year": 2009,
+    "question_type": "past",
+    "stem": "The central focus of commercial activities is",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "pricing"
+      },
+      {
+        "key": "B",
+        "text": "advertising"
+      },
+      {
+        "key": "C",
+        "text": "trading"
+      },
+      {
+        "key": "D",
+        "text": "marketing"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "COM",
+    "exam_year": 2010,
+    "question_type": "past",
+    "stem": "The wealth of a nation depend on the volume of its",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "bilateral trade activities"
+      },
+      {
+        "key": "B",
+        "text": "commercial activities"
+      },
+      {
+        "key": "C",
+        "text": "multilateral trade activities"
+      },
+      {
+        "key": "D",
+        "text": "stock market"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "COM",
+    "exam_year": 2011,
+    "question_type": "past",
+    "stem": "The most important function of commerce is in",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "enhancing business relationships"
+      },
+      {
+        "key": "B",
+        "text": "helping people to improve their profits"
+      },
+      {
+        "key": "C",
+        "text": "facilitating exchange among individuals and firms"
+      },
+      {
+        "key": "D",
+        "text": "assisting trade through banking and insurance"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "COM",
+    "exam_year": 2012,
+    "question_type": "past",
+    "stem": "One of the major benefits of commerce to government is to",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "improve the standard of living"
+      },
+      {
+        "key": "B",
+        "text": "generate revenue for growth and development"
+      },
+      {
+        "key": "C",
+        "text": "encourage cooperation among public organizations"
+      },
+      {
+        "key": "D",
+        "text": "encourage the development of socio-cultural values"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "COM",
+    "exam_year": 2013,
+    "question_type": "past",
+    "stem": "The type of labour that makes use of physical effort in production processes is the",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "unskilled labour"
+      },
+      {
+        "key": "B",
+        "text": "skilled labour"
+      },
+      {
+        "key": "C",
+        "text": "blue-collar job"
+      },
+      {
+        "key": "D",
+        "text": "white-collar job"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "COM",
+    "exam_year": 2016,
+    "question_type": "past",
+    "stem": "The cost which is incurred as a result of failure to load or unload a ship at the ports within a specified period is referred to as",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "demurrage charges"
+      },
+      {
+        "key": "B",
+        "text": "premium charges"
+      },
+      {
+        "key": "C",
+        "text": "trade charges"
+      },
+      {
+        "key": "D",
+        "text": "excess charges"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "COM",
+    "exam_year": 2000,
+    "question_type": "past",
+    "stem": "The major factors that facilitate merchandising are",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "communication, advertising and banking"
+      },
+      {
+        "key": "B",
+        "text": "trading, warehousing and production"
+      },
+      {
+        "key": "C",
+        "text": "management, insurance and advertising"
+      },
+      {
+        "key": "D",
+        "text": "banking, insurance and transportation."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "COM",
+    "exam_year": 2001,
+    "question_type": "past",
+    "stem": "The pivot on which the wheel of commerce rotates is",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "tariff"
+      },
+      {
+        "key": "B",
+        "text": "trade"
+      },
+      {
+        "key": "C",
+        "text": "taxation"
+      },
+      {
+        "key": "D",
+        "text": "price."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "COM",
+    "exam_year": 2002,
+    "question_type": "past",
+    "stem": "The most important factor that delayed the development of commerce in Nigeria was",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the inefficient means of communication"
+      },
+      {
+        "key": "B",
+        "text": "that there were few entrepreneurs"
+      },
+      {
+        "key": "C",
+        "text": "the unavailability of infrastructure facilities"
+      },
+      {
+        "key": "D",
+        "text": "that there were few developed markets."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "COM",
+    "exam_year": 2003,
+    "question_type": "past",
+    "stem": "An example of a service -rendering trade association is",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Nigerian Bar Association"
+      },
+      {
+        "key": "B",
+        "text": "Association of Nigerian Miners"
+      },
+      {
+        "key": "C",
+        "text": "Cocoa Farmers ’Association"
+      },
+      {
+        "key": "D",
+        "text": "Manufacturers ’Association of Nigeria."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  }
+]

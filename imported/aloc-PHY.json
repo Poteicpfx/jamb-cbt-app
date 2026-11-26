@@ -1,0 +1,407 @@
+[
+  {
+    "subject_code": "PHY",
+    "exam_year": 2015,
+    "question_type": "past",
+    "stem": "If the volume of a gas is recorded as 76cm³ at a temperature of 27°C with a pressure of 800mmHg. What will be the volume of the gas at S.T.P?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "36.2cm³"
+      },
+      {
+        "key": "B",
+        "text": "25.7cm³"
+      },
+      {
+        "key": "C",
+        "text": "72.8cm³"
+      },
+      {
+        "key": "D",
+        "text": "24.3cm³"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2016,
+    "question_type": "past",
+    "stem": "Myopic defects in the human eye can be corrected through the use of a",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Concave Mirror"
+      },
+      {
+        "key": "B",
+        "text": "Concave lens"
+      },
+      {
+        "key": "C",
+        "text": "Prism"
+      },
+      {
+        "key": "D",
+        "text": "Convex lens"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2017,
+    "question_type": "past",
+    "stem": "Which is the incorrect formula for a body accelerating uniformly?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "a = (v² − u²)/2"
+      },
+      {
+        "key": "B",
+        "text": "v² = u² + 2as"
+      },
+      {
+        "key": "C",
+        "text": "s = ut + ½at²"
+      },
+      {
+        "key": "D",
+        "text": "v² − u² = 2as"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2018,
+    "question_type": "past",
+    "stem": "A man walks 1km due east and then 1 km due north His displacement?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "√2 km N 45°E"
+      },
+      {
+        "key": "B",
+        "text": "1 km N 30°E"
+      },
+      {
+        "key": "C",
+        "text": "1 km N 15°E"
+      },
+      {
+        "key": "D",
+        "text": "√2 km N 60°E"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "The limiting frictional force between two surface depends on\n\nI. the gaseous reaction between the surfaces\n\nII. the nature of the surfaces in contact\n\nIII. the relative velocity between the surfaces",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I only"
+      },
+      {
+        "key": "B",
+        "text": "I & II only"
+      },
+      {
+        "key": "C",
+        "text": "II only"
+      },
+      {
+        "key": "D",
+        "text": "III only"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "A few grains of table salt were put in a cup of cold water, kept at constant temperature and left undistributed. Eventually all the water tested salty. This action is due to?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "convection"
+      },
+      {
+        "key": "B",
+        "text": "osmosis"
+      },
+      {
+        "key": "C",
+        "text": "capillarity"
+      },
+      {
+        "key": "D",
+        "text": "diffusion"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2021,
+    "question_type": "past",
+    "stem": "The slope of the straight line displacement-time graph indicates?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "distance traveled"
+      },
+      {
+        "key": "B",
+        "text": "uniform velocity"
+      },
+      {
+        "key": "C",
+        "text": "uniform acceleration"
+      },
+      {
+        "key": "D",
+        "text": "uniform speed"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2022,
+    "question_type": "past",
+    "stem": "Which of these is a derived unit?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kilogram"
+      },
+      {
+        "key": "B",
+        "text": "Metre"
+      },
+      {
+        "key": "C",
+        "text": "Newton"
+      },
+      {
+        "key": "D",
+        "text": "Second"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2023,
+    "question_type": "past",
+    "stem": "The property of wave shown in the diagram above is?",
+    "image_url": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614425/ALOC-Questions/Physics/2023/physics_2023-Q1_jx0lbx.png",
+    "options": [
+      {
+        "key": "A",
+        "text": "Diffraction"
+      },
+      {
+        "key": "B",
+        "text": "Refraction"
+      },
+      {
+        "key": "C",
+        "text": "Polarisation"
+      },
+      {
+        "key": "D",
+        "text": "Interference"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2024,
+    "question_type": "past",
+    "stem": "The stress experienced by a wire of diameter yπm loaded by a weight y²N is",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "πNm⁻²"
+      },
+      {
+        "key": "B",
+        "text": "2πNm⁻²"
+      },
+      {
+        "key": "C",
+        "text": "4πNm⁻²"
+      },
+      {
+        "key": "D",
+        "text": "8πNm⁻²"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2004,
+    "question_type": "past",
+    "stem": "A generator manufacturing company was contracted to produce an a.c dynamo but inadvertently produced a d.c dynamo. To correct this error, the",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "armature coil should be made of silver"
+      },
+      {
+        "key": "B",
+        "text": "commutator should be replaced with slip ring"
+      },
+      {
+        "key": "C",
+        "text": "commutator should be replaced with split rings"
+      },
+      {
+        "key": "D",
+        "text": "armature coil should be made of aluminium"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2005,
+    "question_type": "past",
+    "stem": "Marching soldiers crossing a suspension bridge are usually advised to break their steps to avoid damaging the bridge owing to",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "oscillation"
+      },
+      {
+        "key": "B",
+        "text": "resonance"
+      },
+      {
+        "key": "C",
+        "text": "swinging"
+      },
+      {
+        "key": "D",
+        "text": "vibration"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2006,
+    "question_type": "past",
+    "stem": "A uniform solid cube material 10cm on each side of mass 700g is submerged in water. which of the following best described the behavior of the cube water?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "the cube will melt after a period of time"
+      },
+      {
+        "key": "B",
+        "text": "the cube will float"
+      },
+      {
+        "key": "C",
+        "text": "the cube will sink in water"
+      },
+      {
+        "key": "D",
+        "text": "the cube will rest at an equilibrium position in water"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2007,
+    "question_type": "past",
+    "stem": "The unit of moment of a couple can be expressed in?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "N m⁻¹"
+      },
+      {
+        "key": "B",
+        "text": "N m⁻²"
+      },
+      {
+        "key": "C",
+        "text": "N m"
+      },
+      {
+        "key": "D",
+        "text": "N m²"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "PHY",
+    "exam_year": 2008,
+    "question_type": "past",
+    "stem": "I. Force (N)\nII. Torque (Nm)\nIII. Current (A)\nIV. Power (W)\nWhich of the above are the correct S.I. units of the quantities indicated?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "I and II only"
+      },
+      {
+        "key": "B",
+        "text": "I and III only"
+      },
+      {
+        "key": "C",
+        "text": "I, II and III only"
+      },
+      {
+        "key": "D",
+        "text": "I, II, III and IV only"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  }
+]

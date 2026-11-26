@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { BarChart3, BookOpenCheck, Clock, LogOut, ShieldCheck, SlidersHorizontal } from 'lucide-react';
+import { BarChart3, BookOpenCheck, Clock, LogOut, ShieldCheck, Database, SlidersHorizontal } from 'lucide-react';
 import { useAuth } from '../auth/AuthContext';
 import { SubjectSelector } from '../subjects/SubjectSelector';
 import { OfflinePacksPanel } from '../offline/OfflinePacksPanel';
@@ -122,7 +122,12 @@ export function DashboardPage() {
         ) : (
           <section className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
             <div className="flex items-center justify-between">
-              <h2 className="text-sm font-bold text-slate-900">Your JAMB Subject Combination</h2>
+              <div>
+                <h2 className="text-sm font-bold text-slate-900">Your JAMB Subject Combination</h2>
+                <Link to="/subjects" className="mt-0.5 inline-flex items-center gap-1 text-xs font-semibold text-emerald-700 hover:underline">
+                  <Database className="h-3 w-3" /> View all 14 subjects &amp; question counts
+                </Link>
+              </div>
               <button
                 type="button"
                 onClick={() => setEditingSubjects(true)}

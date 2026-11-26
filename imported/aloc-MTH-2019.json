@@ -1,0 +1,392 @@
+[
+  {
+    "subject_code": "MTH",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "Make q the subject of the formula in the equation mn/a<sup>2</sup>− pq/b<sup>2</sup> = 1",
+    "options": [
+      {
+        "key": "A",
+        "text": "q=(b<sup>2</sup> (mn-a<sup>2</sup>))/(a<sup>2</sup> p)"
+      },
+      {
+        "key": "B",
+        "text": "q=(m<sup>2</sup> n-a<sup>2</sup>)/p<sup>2</sup>"
+      },
+      {
+        "key": "C",
+        "text": "q=(mn-2b<sup>2</sup>)/a<sup>2</sup>"
+      },
+      {
+        "key": "D",
+        "text": ""
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "MTH",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "The angle of elevation of the top of a tree from a point on the ground 60m away from the foot of the tree is 78°. Find the height of the tree correct to the nearest whole number.",
+    "options": [
+      {
+        "key": "A",
+        "text": "148 m"
+      },
+      {
+        "key": "B",
+        "text": "382 m"
+      },
+      {
+        "key": "C",
+        "text": "282 m"
+      },
+      {
+        "key": "D",
+        "text": "248 m"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "MTH",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "A binary operation ⊗\n is defined by m ⊗ n = mn + m − n on the set of real numbers, for all m, n ∈\n R. Find the value of 3 ⊗ (2⊗ 4).",
+    "options": [
+      {
+        "key": "A",
+        "text": "6"
+      },
+      {
+        "key": "B",
+        "text": "25"
+      },
+      {
+        "key": "C",
+        "text": "15"
+      },
+      {
+        "key": "D",
+        "text": "18"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "MTH",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "The table above shows the number of pupils in a class with respect to their ages. If a pie chart is constructed to represent the age, the angle corresponding to 8 years old is",
+    "options": [
+      {
+        "key": "A",
+        "text": "48.6°"
+      },
+      {
+        "key": "B",
+        "text": "56.3°"
+      },
+      {
+        "key": "C",
+        "text": "46.8°"
+      },
+      {
+        "key": "D",
+        "text": "13°"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "MTH",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "In a class of 50 students, 40 students offered Physics and 30 offered Biology. How many offered both Physics and Biology?",
+    "options": [
+      {
+        "key": "A",
+        "text": "42"
+      },
+      {
+        "key": "B",
+        "text": "20"
+      },
+      {
+        "key": "C",
+        "text": "70"
+      },
+      {
+        "key": "D",
+        "text": "54"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "MTH",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "Rationalize  (√2+√3)/(√2-√3)",
+    "options": [
+      {
+        "key": "A",
+        "text": "−5−2√6"
+      },
+      {
+        "key": "B",
+        "text": "−5 + 3√2"
+      },
+      {
+        "key": "C",
+        "text": "5 − 2√3"
+      },
+      {
+        "key": "D",
+        "text": "5 + 2√6"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "MTH",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "Find the length of the chord |AB| in the diagram shown above.",
+    "options": [
+      {
+        "key": "A",
+        "text": "4.2 cm"
+      },
+      {
+        "key": "B",
+        "text": "4.3 cm"
+      },
+      {
+        "key": "C",
+        "text": "3.2 cm"
+      },
+      {
+        "key": "D",
+        "text": "3.4 cm"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "MTH",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "Given sin58° = cos p°, find p.",
+    "options": [
+      {
+        "key": "A",
+        "text": "48°"
+      },
+      {
+        "key": "B",
+        "text": "58°"
+      },
+      {
+        "key": "C",
+        "text": "32°"
+      },
+      {
+        "key": "D",
+        "text": "52°"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "MTH",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "(2/3÷4/5)/(1/4+3/5-1/3)",
+    "options": [
+      {
+        "key": "A",
+        "text": "31/50"
+      },
+      {
+        "key": "B",
+        "text": "20/31"
+      },
+      {
+        "key": "C",
+        "text": "31/20"
+      },
+      {
+        "key": "D",
+        "text": "50/31"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "MTH",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "if 6x<sup>3</sup>+2x<sup>2</sup>-5x+1 divides x<sup>2</sup>−x−1\n, find the remainder.",
+    "options": [
+      {
+        "key": "A",
+        "text": "9x + 9"
+      },
+      {
+        "key": "B",
+        "text": "2x + 6"
+      },
+      {
+        "key": "C",
+        "text": "6x + 8"
+      },
+      {
+        "key": "D",
+        "text": "5x - 3"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "MTH",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "If a fair coin is tossed 3 times, what is the probability of getting at least two heads?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2/3"
+      },
+      {
+        "key": "B",
+        "text": "4/5"
+      },
+      {
+        "key": "C",
+        "text": "2/5"
+      },
+      {
+        "key": "D",
+        "text": "1/2"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "MTH",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "In how many ways can the word MATHEMATICIAN be arranged?",
+    "options": [
+      {
+        "key": "A",
+        "text": "6794800 ways"
+      },
+      {
+        "key": "B",
+        "text": "2664910 ways"
+      },
+      {
+        "key": "C",
+        "text": "6227020800 ways"
+      },
+      {
+        "key": "D",
+        "text": "129729600 ways"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "MTH",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "Find the mean of the data.",
+    "options": [
+      {
+        "key": "A",
+        "text": "3.26"
+      },
+      {
+        "key": "B",
+        "text": "4.91"
+      },
+      {
+        "key": "C",
+        "text": "6.57"
+      },
+      {
+        "key": "D",
+        "text": "3.0"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "MTH",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "Find the variance",
+    "options": [
+      {
+        "key": "A",
+        "text": "3.42"
+      },
+      {
+        "key": "B",
+        "text": "4.69"
+      },
+      {
+        "key": "C",
+        "text": "4.85"
+      },
+      {
+        "key": "D",
+        "text": "3.72"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "MTH",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "The locus of a point which moves so that it is equidistant from two intersecting straight lines is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "bisector of the two lines"
+      },
+      {
+        "key": "B",
+        "text": "line parallel to the two lines"
+      },
+      {
+        "key": "C",
+        "text": "angle bisector of the two lines"
+      },
+      {
+        "key": "D",
+        "text": "perpendicular bisector of the two lines"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  }
+]

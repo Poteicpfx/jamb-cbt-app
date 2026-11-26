@@ -1,0 +1,407 @@
+[
+  {
+    "subject_code": "BIO",
+    "exam_year": 2005,
+    "question_type": "past",
+    "stem": "The organelle common to both plant and animal cells is the",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "centriole"
+      },
+      {
+        "key": "B",
+        "text": "plasmalemma"
+      },
+      {
+        "key": "C",
+        "text": "cell wall"
+      },
+      {
+        "key": "D",
+        "text": "chloroplast"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "BIO",
+    "exam_year": 2003,
+    "question_type": "past",
+    "stem": "In the egg of bird, the embryo is located in the",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Chalaza"
+      },
+      {
+        "key": "B",
+        "text": "Yolk"
+      },
+      {
+        "key": "C",
+        "text": "albumen"
+      },
+      {
+        "key": "D",
+        "text": "embryo"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "BIO",
+    "exam_year": 2004,
+    "question_type": "past",
+    "stem": "The rods in the retina of the eye are examples of",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "cells"
+      },
+      {
+        "key": "B",
+        "text": "Tissues"
+      },
+      {
+        "key": "C",
+        "text": "organs"
+      },
+      {
+        "key": "D",
+        "text": "systems"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "BIO",
+    "exam_year": 2006,
+    "question_type": "past",
+    "stem": "Mendel, s second law of inheritance states that",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "alleles separate predictably"
+      },
+      {
+        "key": "B",
+        "text": "alleles segregate  independently"
+      },
+      {
+        "key": "C",
+        "text": "chromosomes segregate independently"
+      },
+      {
+        "key": "D",
+        "text": "alleles combine randomly"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "BIO",
+    "exam_year": 2007,
+    "question_type": "past",
+    "stem": "The chromosomes of members of the kingdom  monera are within the",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "nucleus"
+      },
+      {
+        "key": "B",
+        "text": "nucleolus"
+      },
+      {
+        "key": "C",
+        "text": "cytoplasm"
+      },
+      {
+        "key": "D",
+        "text": "Nucleoplasm"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "BIO",
+    "exam_year": 2008,
+    "question_type": "past",
+    "stem": "In terms of the number of individuals, which of the following  taxa is most inclusive?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "order"
+      },
+      {
+        "key": "B",
+        "text": "family"
+      },
+      {
+        "key": "C",
+        "text": "class"
+      },
+      {
+        "key": "D",
+        "text": "species"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "BIO",
+    "exam_year": 2009,
+    "question_type": "past",
+    "stem": "What is the level of organization  of an onion bulb?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "tissue"
+      },
+      {
+        "key": "B",
+        "text": "organ"
+      },
+      {
+        "key": "C",
+        "text": "systemic"
+      },
+      {
+        "key": "D",
+        "text": "organism"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "BIO",
+    "exam_year": 2010,
+    "question_type": "past",
+    "stem": "Which of the following characterizes a mature plant cell?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "The cytoplasm fills up the entire cell space"
+      },
+      {
+        "key": "B",
+        "text": "The nucleus is pushed to the centre of the cell"
+      },
+      {
+        "key": "C",
+        "text": "the cell wall is made up of cellulose"
+      },
+      {
+        "key": "D",
+        "text": "The nucleus is small and irregular in shape"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "BIO",
+    "exam_year": 2011,
+    "question_type": "past",
+    "stem": "The function of the red head in male Agama lizards is to",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "scare other males from the territory"
+      },
+      {
+        "key": "B",
+        "text": "attract female lizards for mating purposes"
+      },
+      {
+        "key": "C",
+        "text": "warn predators of the distastefulness of the animal"
+      },
+      {
+        "key": "D",
+        "text": "Conceal and camouflage the animal from predators"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "BIO",
+    "exam_year": 2012,
+    "question_type": "past",
+    "stem": "Which of the following is most advanced in the evolutionary trend of animals?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Liver fluke"
+      },
+      {
+        "key": "B",
+        "text": "Earthworm"
+      },
+      {
+        "key": "C",
+        "text": "Snail"
+      },
+      {
+        "key": "D",
+        "text": "cockroach"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "BIO",
+    "exam_year": 2003,
+    "question_type": "past",
+    "stem": "One distinctive feature in the life history  of liverworts is that they exhibit",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "alternation of generation"
+      },
+      {
+        "key": "B",
+        "text": "vegetative reproduction"
+      },
+      {
+        "key": "C",
+        "text": "sexual reproduction"
+      },
+      {
+        "key": "D",
+        "text": "sexual reproduction"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "BIO",
+    "exam_year": 2004,
+    "question_type": "past",
+    "stem": "The absence of special food and water-conducting systems  restricts the body size in",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "algae, liverworts and mosses"
+      },
+      {
+        "key": "B",
+        "text": "liverworts, mosses and ferns"
+      },
+      {
+        "key": "C",
+        "text": "the bryophytes and the pteriodophytes"
+      },
+      {
+        "key": "D",
+        "text": "the thallophytes and the pteriodphytes"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "BIO",
+    "exam_year": 2005,
+    "question_type": "past",
+    "stem": "Which of the following is likely to have a higher concentration of mitochondria?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sperm cell"
+      },
+      {
+        "key": "B",
+        "text": "white blood cell"
+      },
+      {
+        "key": "C",
+        "text": "Egg cell"
+      },
+      {
+        "key": "D",
+        "text": "red blood cell"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "BIO",
+    "exam_year": 2006,
+    "question_type": "past",
+    "stem": "One advantage of variation in a species population  is that individuals",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "easily reach their reproduction age"
+      },
+      {
+        "key": "B",
+        "text": "with favoured trait become dominant"
+      },
+      {
+        "key": "C",
+        "text": "are better adapted  to changes"
+      },
+      {
+        "key": "D",
+        "text": "are easily  recognized by mates"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "BIO",
+    "exam_year": 2007,
+    "question_type": "past",
+    "stem": "A water medium is necessary for fertilization in",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "angisperms"
+      },
+      {
+        "key": "B",
+        "text": "ferns"
+      },
+      {
+        "key": "C",
+        "text": "fungi"
+      },
+      {
+        "key": "D",
+        "text": "conifers"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  }
+]

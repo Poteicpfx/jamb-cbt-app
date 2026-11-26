@@ -1,0 +1,407 @@
+[
+  {
+    "subject_code": "GEO",
+    "exam_year": 2016,
+    "question_type": "past",
+    "stem": "Which of these is a textual classification of soils?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rounded, Irregular, and Flat"
+      },
+      {
+        "key": "B",
+        "text": "Angular, Prismatic and Columnar"
+      },
+      {
+        "key": "C",
+        "text": "Rounded, Pebbles, and Silt"
+      },
+      {
+        "key": "D",
+        "text": "Angular, Sand, and Clay"
+      }
+    ],
+    "correct_option": "E",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GEO",
+    "exam_year": 2017,
+    "question_type": "past",
+    "stem": "Identify the non-fuel mineral among the following",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Lignite"
+      },
+      {
+        "key": "B",
+        "text": "Peat"
+      },
+      {
+        "key": "C",
+        "text": "Cassiterite"
+      },
+      {
+        "key": "D",
+        "text": "Petroleum"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GEO",
+    "exam_year": 2018,
+    "question_type": "past",
+    "stem": "If the total population of the city is 500,000 what is the population of ward 4?",
+    "image_url": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582574/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_01_and_02_v2sqab.jpg",
+    "options": [
+      {
+        "key": "A",
+        "text": "75,000"
+      },
+      {
+        "key": "B",
+        "text": "150,000"
+      },
+      {
+        "key": "C",
+        "text": "125,000"
+      },
+      {
+        "key": "D",
+        "text": "100,000"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GEO",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "What is a typical farmer in the Susan Savannah of Nigeria most likely to be doing in June?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Taking part in a fishing festival"
+      },
+      {
+        "key": "B",
+        "text": "Clearing his land for planting"
+      },
+      {
+        "key": "C",
+        "text": "Resting because he has less to do"
+      },
+      {
+        "key": "D",
+        "text": "Planting his main cash crop"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GEO",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "If a map at scale of 1:50,000 is reduced by half, what is the scale of the new map?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1:100,000"
+      },
+      {
+        "key": "B",
+        "text": "1:750,000"
+      },
+      {
+        "key": "C",
+        "text": "1:200,000"
+      },
+      {
+        "key": "D",
+        "text": "1:25,000"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GEO",
+    "exam_year": 2016,
+    "question_type": "past",
+    "stem": "The main composition of coal is",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Iron"
+      },
+      {
+        "key": "B",
+        "text": "Quartz"
+      },
+      {
+        "key": "C",
+        "text": "Clay"
+      },
+      {
+        "key": "D",
+        "text": "Carbon"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GEO",
+    "exam_year": 2017,
+    "question_type": "past",
+    "stem": "Which one of the following sates of Nigeria is a major kolanut producer?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Plateau"
+      },
+      {
+        "key": "B",
+        "text": "Bendel"
+      },
+      {
+        "key": "C",
+        "text": "Rivers"
+      },
+      {
+        "key": "D",
+        "text": "Ogun"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GEO",
+    "exam_year": 2018,
+    "question_type": "past",
+    "stem": "An alternative graphic method that can be used to depict that same information is the",
+    "image_url": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582574/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_01_and_02_v2sqab.jpg",
+    "options": [
+      {
+        "key": "A",
+        "text": "Divided rectangle"
+      },
+      {
+        "key": "B",
+        "text": "Chloropath"
+      },
+      {
+        "key": "C",
+        "text": "Dotman"
+      },
+      {
+        "key": "D",
+        "text": "Proportinal circle"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GEO",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "Bamboo and mahogany, liana and obeche, raphia and tree ferns. In which vegetation type are all these found?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Coniferous forest"
+      },
+      {
+        "key": "B",
+        "text": "Tropical monsoon"
+      },
+      {
+        "key": "C",
+        "text": "Tropical forest"
+      },
+      {
+        "key": "D",
+        "text": "Sub-tropical forest"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GEO",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "Which of the following is not a form of precipitation?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Haze"
+      },
+      {
+        "key": "B",
+        "text": "Snow"
+      },
+      {
+        "key": "C",
+        "text": "Hail"
+      },
+      {
+        "key": "D",
+        "text": "Fog"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GEO",
+    "exam_year": 2016,
+    "question_type": "past",
+    "stem": "The circulation of ocean currents is",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Clockwise both in the northern hemisphere and clockwise in the Southern"
+      },
+      {
+        "key": "B",
+        "text": "Anticlockwise in the northern hemisphere and clockwise in the southern hemisphere"
+      },
+      {
+        "key": "C",
+        "text": "Anticlockwise both in the northern and southern hemisphere"
+      },
+      {
+        "key": "D",
+        "text": "Clockwise in both northern and southern hemisphere"
+      }
+    ],
+    "correct_option": "E",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GEO",
+    "exam_year": 2017,
+    "question_type": "past",
+    "stem": "Pulp-wood which is used in the manufacturing of paper cardboard and cellulose is derived mainly from",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Desert plants"
+      },
+      {
+        "key": "B",
+        "text": "Tropical rainforest"
+      },
+      {
+        "key": "C",
+        "text": "Coniferous forest"
+      },
+      {
+        "key": "D",
+        "text": "Broad leaved forest"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GEO",
+    "exam_year": 2018,
+    "question_type": "past",
+    "stem": "Area covered by the map is approximately",
+    "image_url": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582574/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_03_and_07_byo7zc.jpg",
+    "options": [
+      {
+        "key": "A",
+        "text": "125 km.sq"
+      },
+      {
+        "key": "B",
+        "text": "105 km.sq"
+      },
+      {
+        "key": "C",
+        "text": "95km.sq"
+      },
+      {
+        "key": "D",
+        "text": "115 km.sq."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GEO",
+    "exam_year": 2019,
+    "question_type": "past",
+    "stem": "Which of the following is a correct pair?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "River/Cut-off"
+      },
+      {
+        "key": "B",
+        "text": "Glacier/Erratic boulder"
+      },
+      {
+        "key": "C",
+        "text": "Limestone/Pass"
+      },
+      {
+        "key": "D",
+        "text": "Desert/Cavern"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "GEO",
+    "exam_year": 2020,
+    "question_type": "past",
+    "stem": "Which of the following rocks is composed of the skeletons of microscopic sea plants and animals?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Granite"
+      },
+      {
+        "key": "B",
+        "text": "Chalk"
+      },
+      {
+        "key": "C",
+        "text": "Slate"
+      },
+      {
+        "key": "D",
+        "text": "Sandstone"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  }
+]

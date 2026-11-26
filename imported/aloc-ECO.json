@@ -1,0 +1,407 @@
+[
+  {
+    "subject_code": "ECO",
+    "exam_year": 2009,
+    "question_type": "past",
+    "stem": "Musa has a choice of buying a shirt, a book and a bag. What is the opportunity cost of buying a book?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "A bag only"
+      },
+      {
+        "key": "B",
+        "text": "A book and a bag"
+      },
+      {
+        "key": "C",
+        "text": "A shirt and a bag"
+      },
+      {
+        "key": "D",
+        "text": "A shirt only"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ECO",
+    "exam_year": 2010,
+    "question_type": "past",
+    "stem": "Economics is the study of human behaviour as it relates to the",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "efficient allocation of resources"
+      },
+      {
+        "key": "B",
+        "text": "operation of companies"
+      },
+      {
+        "key": "C",
+        "text": "production of goods"
+      },
+      {
+        "key": "D",
+        "text": "generation of income"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ECO",
+    "exam_year": 2004,
+    "question_type": "past",
+    "stem": "If budget deficits are financed by borrowing, the crowding-out effect can be offset by an increase in",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "savings"
+      },
+      {
+        "key": "B",
+        "text": "interest rates"
+      },
+      {
+        "key": "C",
+        "text": "government expenditure"
+      },
+      {
+        "key": "D",
+        "text": "exchange rates"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ECO",
+    "exam_year": 2009,
+    "question_type": "past",
+    "stem": "A typical feature of a market economy is that",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "all producers make profit"
+      },
+      {
+        "key": "B",
+        "text": "full employment exists"
+      },
+      {
+        "key": "C",
+        "text": "consumer sovereignty exists"
+      },
+      {
+        "key": "D",
+        "text": "there is equality of economic agents"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ECO",
+    "exam_year": 2010,
+    "question_type": "past",
+    "stem": "A classroom teacher is promoted to the rank of a principal. This is an example of",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "vertical mobility"
+      },
+      {
+        "key": "B",
+        "text": "lateral mobility"
+      },
+      {
+        "key": "C",
+        "text": "social mobility"
+      },
+      {
+        "key": "D",
+        "text": "horizontal mobility"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ECO",
+    "exam_year": 2004,
+    "question_type": "past",
+    "stem": "The difference between payments and receipts for visible trade is called",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "current balance"
+      },
+      {
+        "key": "B",
+        "text": "balance of trade"
+      },
+      {
+        "key": "C",
+        "text": "balance of payments"
+      },
+      {
+        "key": "D",
+        "text": "bilateral trade"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ECO",
+    "exam_year": 2009,
+    "question_type": "past",
+    "stem": "The privatization exercise in Nigeria is a move towards a",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "mixed economy"
+      },
+      {
+        "key": "B",
+        "text": "subsistence economy"
+      },
+      {
+        "key": "C",
+        "text": "market economy"
+      },
+      {
+        "key": "D",
+        "text": "command economy"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ECO",
+    "exam_year": 2010,
+    "question_type": "past",
+    "stem": "The downturn in the prices of shares on stock markets is a \thighlight of",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "efficient allocation of resources"
+      },
+      {
+        "key": "B",
+        "text": "the regulatory nature of the market"
+      },
+      {
+        "key": "C",
+        "text": "the invisible hand"
+      },
+      {
+        "key": "D",
+        "text": "consumer rationality"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ECO",
+    "exam_year": 2004,
+    "question_type": "past",
+    "stem": "One of the causes of the present high rate of inflation in Nigeria is",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "increasing factor costs"
+      },
+      {
+        "key": "B",
+        "text": "exchange rate appreciation"
+      },
+      {
+        "key": "C",
+        "text": "increasing budget surplus"
+      },
+      {
+        "key": "D",
+        "text": "high capacity utilization"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ECO",
+    "exam_year": 2009,
+    "question_type": "past",
+    "stem": "A high rent on land will affect the cost of producing maize",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "positively"
+      },
+      {
+        "key": "B",
+        "text": "negatively"
+      },
+      {
+        "key": "C",
+        "text": "at the early stage of production"
+      },
+      {
+        "key": "D",
+        "text": "at the later stage of production"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ECO",
+    "exam_year": 2010,
+    "question_type": "past",
+    "stem": "If  X = 6 and N = 6, determine the value of   Efx.",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "36"
+      },
+      {
+        "key": "B",
+        "text": "12"
+      },
+      {
+        "key": "C",
+        "text": "1"
+      },
+      {
+        "key": "D",
+        "text": "72"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ECO",
+    "exam_year": 2004,
+    "question_type": "past",
+    "stem": "A major reason for having national development plans is to",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "involve people in national programmes"
+      },
+      {
+        "key": "B",
+        "text": "make government spend more on production"
+      },
+      {
+        "key": "C",
+        "text": "ensure that more citizens are involved in planning"
+      },
+      {
+        "key": "D",
+        "text": "ensure efficient use of available resources"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ECO",
+    "exam_year": 2009,
+    "question_type": "past",
+    "stem": "If the  active  population  is 50  million and unemployed is 5 million, what is the unemployment rate?",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10%"
+      },
+      {
+        "key": "B",
+        "text": "45%"
+      },
+      {
+        "key": "C",
+        "text": "55%"
+      },
+      {
+        "key": "D",
+        "text": "90%"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ECO",
+    "exam_year": 2010,
+    "question_type": "past",
+    "stem": "The standard deviation of a set of data is",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "always measured from the mode"
+      },
+      {
+        "key": "B",
+        "text": "always measured from the median"
+      },
+      {
+        "key": "C",
+        "text": "the most representative of averages"
+      },
+      {
+        "key": "D",
+        "text": "a measure of dispersion"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": ""
+  },
+  {
+    "subject_code": "ECO",
+    "exam_year": 2004,
+    "question_type": "past",
+    "stem": "When the importation of a commodity is limited to a definite quantity, the trade control means used is known as",
+    "image_url": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "quotas"
+      },
+      {
+        "key": "B",
+        "text": "tax relief"
+      },
+      {
+        "key": "C",
+        "text": "devaluation"
+      },
+      {
+        "key": "D",
+        "text": "exchange control"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": ""
+  }
+]

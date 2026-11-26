@@ -2,6 +2,7 @@ import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
 import { Loader2 } from 'lucide-react';
 import { AuthProvider, useAuth } from './features/auth/AuthContext';
 import { AuthPage } from './features/auth/AuthPage';
+import { AllSubjectsPage } from "./features/subjects/AllSubjectsPage";
 import { DashboardPage } from './features/dashboard/DashboardPage';
 import { AdminPage } from './features/admin/AdminPage';
 import { ExamSetupPage } from './features/exam/ExamSetupPage';
@@ -45,6 +46,7 @@ function AppRoutes() {
       <Route path="/exam" element={user ? <ExamEnginePage /> : <AuthPage />} />
       <Route path="/results/:attemptId" element={user ? <ResultsPage /> : <AuthPage />} />
       <Route path="/analytics" element={user ? <AnalyticsPage /> : <AuthPage />} />
+      <Route path="/subjects" element={user ? <AllSubjectsPage /> : <AuthPage />} />
       <Route path="/admin" element={user ? <AdminPage /> : <AuthPage />} />
       <Route path="*" element={<Navigate to="/" replace />} />
     </Routes>
