@@ -111,7 +111,7 @@ export function ExamSetupPage() {
           setStarting(false);
           return;
         }
-        const liveQs = await fetchLiveAlocQuestions(targetSubjects, 15);
+        const liveQs = await fetchLiveAlocQuestions(targetSubjects, mode === 'mock' ? undefined : 40);
         for (const sub of targetSubjects) {
           let subQs = liveQs.filter((q) => q.subject_id === sub.id);
           if (subQs.length === 0) {
